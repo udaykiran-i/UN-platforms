@@ -1,0 +1,55 @@
+.image {
+  cursor: pointer;
+  border-radius: 50%;
+  box-shadow: 0px 2px 3px 3px rgb(180, 180, 180);
+  margin: 50px 0px 0px 50px;
+}
+
+.cardMargin {
+  margin-top: 50px;
+}
+
+#cardEffect {
+  box-shadow: 0px 2px 5px 5px grey;
+  border-radius: 20px;
+}
+
+#cardEffectComment{
+  padding: 50px;
+  border-radius: 20px;
+  box-shadow: 0px 2px 5px 5px grey;
+}
+
+
+.data{
+  margin-left: 10px;
+}
+
+.description{
+  font-weight: 550;
+}
+
+.edges{
+  padding-right: 200px;
+}
+
+.reactions{
+  margin-left: 10px;
+}
+
+.options{
+  display: flex;
+  flex-direction: row;
+}
+
+.image-title{
+  margin-top: 50px;
+}
+
+.username{
+  font-weight: 650;
+}
+
+.changeColour {
+  color: rgb(140, 140, 250);
+}
